@@ -1,0 +1,12 @@
+[project]
+name = "fine-grained-dog-classification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kaggle>=2.0.0",
+    "kagglehub>=1.0.0",
+    "matplotlib>=3.10.8",
+    "shutil",
+]

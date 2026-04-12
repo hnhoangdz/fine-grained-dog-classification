@@ -8,5 +8,6 @@ dependencies = [
     "kaggle>=2.0.0",
     "kagglehub>=1.0.0",
     "matplotlib>=3.10.8",
-    "shutil",
+    "scikit-learn",
+    "torchvision",
 ]

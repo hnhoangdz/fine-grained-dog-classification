@@ -77,3 +77,5 @@ Trên GPU 8 GiB, cấu hình hiện tại đủ VRAM cho các model trong projec
 - `week67_alexnet-from-scratch.ipynb` thay thế file `week6_alexnet-from-scratch.ipynb` cũ.
 - Không cần train lại Week 4-5 nếu các file trong `artifacts/datasets` đã tồn tại và không thay đổi dữ liệu.
 - Nếu muốn so sánh đầy đủ trong Week 10/11, hãy train xong cả AlexNet và các model transfer learning trước.
+
+tôi chỉ lỗi khi gõ trên chrome thôi
